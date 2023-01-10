@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @humbjd
 - 👀 I’m interested in front and back end, Data Science, QA and DevOps ...
-- 🌱 I’m currently learning ...QA, DevOps, JavaScript and Python
+- 🌱 I’m currently learning ...QA, Front End, JavaScript and Python
 - 📫 How to reach me ...https://www.linkedin.com/in/humberto-dantas-a5233973/
 
 <!---
