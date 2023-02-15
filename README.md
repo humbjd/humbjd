@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Humberto Dantas
-- 👀 I’m interested in front and back end, Data Science, QA and DevOps ...
+- 👀 I’m interested in Front End, Data Science, QA and DevOps ...
 - 🌱 I’m currently learning ... HTML5 | CSS3 | JavaScript | Python | Java | Selenium | Cypress
 - 📫 How to reach me ...https://www.linkedin.com/in/humberto-dantas-a5233973/
 
